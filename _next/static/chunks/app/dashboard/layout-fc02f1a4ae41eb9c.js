@@ -366,7 +366,7 @@
                             className: "text-neutral-200",
                             onClick: () => D(!S),
                           }),
-                          " Neuro AI",
+                          " Aero AI",
                         ],
                       }),
                       (0, l.jsx)("div", {
@@ -446,7 +446,7 @@
                                                     ? void 0
                                                     : h.name) && void 0 !== M
                                                 ? M
-                                                : "Neuro User",
+                                                : "Aero User",
                                           }),
                                         ],
                                       }),
@@ -1090,7 +1090,7 @@
                 className: "flex items-center justify-start gap-2",
                 children: [
                   (0, l.jsx)(d.default, {
-                    src: "/assets/logo-light.webp",
+                    src: "/assets/icon.png",
                     alt: "Medium",
                     width: 100,
                     height: 100,
@@ -1106,7 +1106,7 @@
                     children: [
                       (0, l.jsx)(u.default, {
                         href: "/dashboard",
-                        children: "Neuro AI",
+                        children: "Aero AI",
                       }),
                       (0, l.jsx)("div", {
                         className: "text-ellipsis w-32",
@@ -1192,7 +1192,7 @@
             className:
               "font-normal flex space-x-2 items-center text-[13px] text-black py-1 relative z-20 pr-4",
             children: (0, l.jsx)(d.default, {
-              src: "/assets/logo-light.webp",
+              src: "/assets/icon.png",
               alt: "Medium",
               width: 100,
               height: 100,

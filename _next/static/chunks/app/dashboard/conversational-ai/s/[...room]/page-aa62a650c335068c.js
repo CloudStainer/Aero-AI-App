@@ -68,7 +68,7 @@
           {
             id: "deepsouth",
             name: "DeepSouth+",
-            imgUrl: "/assets/logo-light.webp",
+            imgUrl: "/assets/icon.png",
           },
           {
             id: "bittensor",

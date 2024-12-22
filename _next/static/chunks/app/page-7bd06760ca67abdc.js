@@ -200,7 +200,7 @@
                   "absolute flex-col z-50 inset-0 flex items-center justify-center text-white px-4 text-center",
                 children: [
                   (0, a.jsx)(c.default, {
-                    src: "/assets/logo-light.webp",
+                    src: "/assets/icon.png",
                     alt: "Logo",
                     width: 100,
                     height: 100,
@@ -215,7 +215,7 @@
                       " ",
                       (0, a.jsx)("p", {
                         className: "text-2xl md:text-3xl lg:text-6xl",
-                        children: "Neuro AI",
+                        children: "Aero AI",
                       }),
                     ],
                   }),

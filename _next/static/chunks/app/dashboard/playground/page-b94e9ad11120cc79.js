@@ -702,7 +702,7 @@
                         width: 100,
                         height: 100,
                         src: null != r ? r : "/assets/circle.png",
-                        alt: "Neuro AI",
+                        alt: "Aero AI",
                         className: "w-8 h-8 rounded-full",
                       }),
                       (0, a.jsx)("p", {
